@@ -10,3 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+For all members looking to get started, please check each individual repo for a README on each project. The network diagram's README provides a high-level explanation of the architecture. To anyone else, the main site is still very much A WIP, so please come back later
